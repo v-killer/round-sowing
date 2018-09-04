@@ -1,3 +1,4 @@
+// 初步效果
 $(p1).on('click',function(){
     $(images).css({
         transform: 'translateX(0)'

@@ -7,6 +7,9 @@
 
 }
 .window{
-    width: 500px;
+    width: 1000px;
     overflow: hidden;
+}
+.red{
+    color: red;
 }
